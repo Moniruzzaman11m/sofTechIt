@@ -1,0 +1,85 @@
+@media screen and (min-width:0px) and (max-width:575px){
+    #top-header{
+        display: none;
+    }
+    .header-baner .header-content h2 {
+        font-size: 21px;
+        line-height: 36px;
+    }
+    .header-baner nav {
+        margin-top: 0px;
+        margin-bottom: 100px;
+    }
+    #helping-area article h2 {
+        margin-top: 90px;
+        line-height: 35px;
+        font-size: 17px;
+        font-weight: bold;
+    }
+    footer {
+        height: 776px;
+    }
+    footer .footer-content .margin-buttom {
+        margin-bottom: 25px;
+    }
+    footer .footer-content h2 {
+        margin-top: 25px;
+    }
+}
+@media screen and (min-width:576px) and (max-width:767px){
+    
+    #helping-area article h2 {
+        line-height: 32px;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    footer {
+        height: 853px;
+    }
+    footer .footer-content .margin-buttom {
+        margin-bottom: 25px;
+    }
+    footer .copyright-area {
+        margin-top: 77px;
+    }
+    footer .footer-content h2 {
+        margin-top: 25px;
+    }
+    .header-baner .header-content h2 {
+        font-size: 21px;
+        line-height: 36px;
+    }
+    #top-header {
+        height: 65px;
+    }
+}
+@media screen and (min-width:768px) and (max-width:991px){
+    footer {
+        height: 588px;
+    }
+    #helping-area {
+        height: 490px;
+    }
+    #top-header .social-icon {
+        float: left;
+    }
+    #top-header {
+        height: 65px;
+    }
+    
+}
+@media screen and (min-width:992px) and (max-width:1200px){
+    .StickyHeader .nav-item {
+        padding: 0px 4px;
+    }
+    nav .nav-item {
+        padding: 0px 4px;
+    }
+    #top-header span {
+        font-size: 12px;
+    }
+    footer {
+        height: 495px;
+    }
+    
+}
